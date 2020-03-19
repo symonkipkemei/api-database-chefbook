@@ -1,5 +1,5 @@
 '''
-Create an API that serves numerical information.
+Create an API that serves textual information.
 
 What topic your API is about is your own choice,
 however it needs to fulfill the following specs:
@@ -8,6 +8,6 @@ however it needs to fulfill the following specs:
 * store your altered data in a Postgres database
 * serve the data at an endpoint (e.g. using sandman2)
 
-TIP: consider using a cryptocurrency API such as coinmarketcap (but anything goes)!
+TIP: consider using data from twitter or slack (but anything goes)!
 
 '''
