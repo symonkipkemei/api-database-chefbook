@@ -1,5 +1,5 @@
 '''
-Use the countries API https://restcountries.eu/ to fetch information
+Use the countries API https://restcountries.com/ to fetch information
 on your home country and the country you're currently in.
 
 In your python program, parse and compare the data of the two responses:
