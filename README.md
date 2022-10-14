@@ -11,11 +11,11 @@
 
 <INTRODUCTION>
 
-<h1 id="intro">py-databases</h1>
+<h1 id="intro">API-Database-chefbook</h1>
 
-A cookbook for databases and api based on the examples shared by codingnomads
+A cookbook for databases and api based on the examples shared by [codingnomads](https://github.com/codingnomads) and attempted by [Symonkipkemei](https://github.com/symonkipkemei)
  
-## API Quizes
+**API Quizes**
 
 ```
 * Exercise 1
@@ -71,7 +71,7 @@ It is your responsibility to build out the application to handle all menu option
 
 ```
 
-## Database Quizes
+**Database Quizes**
 
 
 ```
@@ -143,11 +143,12 @@ To prevent this, you should add a check to see if the record already exists befo
 
 <h1 id="tech">Technologies</h1>
 
-## Builth With
+**Builth With**
 - Python
 - mysql
 
-## usage.
+**usage.**
+
 Run each exercise to see how it works
 
 <PROJECT-SETUP>
@@ -172,16 +173,16 @@ To get this project up and running locally, you must already have the following 
 - [python plus the necessary packages installed on your computer](https://www.python.org/downloads/)
 - [code editor ](https://code.visualstudio.com/)
 - [mysql workbench installed](https://dev.mysql.com/downloads/workbench/)
-- mysql server set up on your linux environment()
+- [mysql server](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database)
 
 
 **simple steps to set up on your local machine**
 
-
-- $ git clone `$ git clone https://github.com/symonkipkemei/api-database-chefbook.git
+- [Import sakila database]( http://downloads.mysql.com/docs/sakila-db.zip)
+- ```git clone https://github.com/symonkipkemei/api-database-chefbook.git```
 - [Set up virtual environment](https://github.com/symonkipkemei/album_search_spotify/wiki/Set-up-virtual-environment/_edit)
-- On the terminal, activate the virtual environment ``` source venv/bin/activate ```
-- On the terimnal, within the cloned repository, run ```pip install requirements.txt```
+- Activate the virtual environment ``` source venv/bin/activate ```
+-  ```pip install requirements.txt```
 - explore the completed examples , try run them by yourself.
 
 
@@ -189,12 +190,7 @@ To get this project up and running locally, you must already have the following 
 
 <ILLUSTRATIONS>
 
-<h1 id="illus">Illustrations of the game play</h1>
-
-![Image](illustrate/image0.png)
-![Image](illustrate/image1.png)
-![Image](illustrate/image2.png)
-
+<h1 id="illus">Illustrations</h1>
 
 
 
@@ -202,14 +198,15 @@ To get this project up and running locally, you must already have the following 
 
 <h1 id="info">Project Information</h1>
 
-## Project Status
-- Complete
+**Project Status**
+- In progress
 
-## Features
-- Make it playful
+**Features**
+- Your suggestions 😊............
 
-## TODO
-
+**To do list**
+- Complete the api examples
+- share pictures of examples on illustrations
 
 
 
@@ -221,9 +218,9 @@ Contributions, issues and feature requests are always welcome!
 
 I love meeting other developers, interacting and sharing.
 
-Feel free to check the [issues page](https://github.com/symonkipkemei/api-database-chefbook e/issues).
+Feel free to check the [issues page](https://github.com/symonkipkemei/api-database-chefbook/issues).
 
-### How to Contribute
+**How to Contribute**
 
 To get a local copy up and running follow these simple example steps.
 
@@ -254,7 +251,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Show your support
 
-Finally, if you've read this far, don't forget to give this repo a ⭐️. They're free . . . .
+
+I can't promise to solve all your problems but I promise you won't have 
+to face them alone 😊.
+
+Finally, if you've read this far, don't forget to give this repo a ⭐️. 
+
 
 ## Acknowledgments
 
