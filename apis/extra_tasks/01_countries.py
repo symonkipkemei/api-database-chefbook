@@ -8,3 +8,18 @@ In your python program, parse and compare the data of the two responses:
 * Print the native name of both countries, as well as their capitals
 
 '''
+
+
+import requests
+from pprint import pprint
+
+base_url = "https://restcountries.com/v3.1/name/kenya"
+
+
+response = requests.get(base_url)
+
+print(f"Status code: {response.status_code}")
+print()
+pprint(f"Headers:  {response.headers}")
+print()
+pprint(response.json())

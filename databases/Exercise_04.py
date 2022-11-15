@@ -18,3 +18,6 @@ The more dynamic the application, the better!
 '''
 
 
+# completed checkout 
+# https://github.com/symonkipkemei/Pesa_Mfukoni
+# https://github.com/symonkipkemei/fmd-repo
