@@ -11,3 +11,12 @@ however it needs to fulfill the following specs:
 TIP: consider using a cryptocurrency API such as coinmarketcap (but anything goes)!
 
 '''
+
+import os
+import requests
+from pprint import pprint
+
+
+coinmarketcap_api_key = os.environ["coinmarketcap_api_key"]
+
+print(coinmarketcap_api_key)

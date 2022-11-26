@@ -16,3 +16,4 @@ message = response.json()
 for  key, value in message.items():
     for val in value:
         print(val["email"])
+
